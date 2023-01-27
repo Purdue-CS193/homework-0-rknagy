@@ -1,5 +1,10 @@
-## Welcome to Robert's GitHub Page
+# Robert Nagy's First CS193 Homework
 
+
+## **My Favorite Things About CS193**
+- _Class once a week_
+- _Great Instructors_
+- _Well organized_
 
 ### **Top 5 Foods**
 
@@ -12,7 +17,7 @@
 ### **Best Book**
 - _Tom and Jerry_
 
-## **Top 3 Movies**
+### **Top 3 Movies**
 1. **_Interstellar_**
 2. **_Gladiator_**
 3. **_Pursuit of Happyness_**
