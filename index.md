@@ -1,5 +1,33 @@
 ## Welcome to Robert's GitHub Page
 
+
+### **Top 5 Foods**
+
+1. Spaghetti with bolognesse
+2. Lasagna
+3. Spicy Spaghetti
+4. Mac & Chesse
+5. Medium rare steak
+
+### **Best Book**
+- _Tom and Jerry_
+
+## **Top 3 Movies**
+1. **_Interstellar_**
+2. **_Gladiator_**
+3. **_Pursuit of Happyness_**
+
+
+
+
+
+
+______________________________________________________________________________________________________________________
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
