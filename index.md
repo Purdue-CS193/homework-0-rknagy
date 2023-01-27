@@ -64,18 +64,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### **Top 5 Foods**
 
-1. Spaghetti with bolognesse
-2. Lasagna
-3. Spicy Spaghetti
-4. Mac & Chesse
-5. Medium rare steak
-
-### **Best Book**
-- _Tom and Jerry_
-
-## **Top 3 Movies**
-1. **_Interstellar_**
-2. **_Gladiator_**
-3. **_Pursuit of Happyness_**
